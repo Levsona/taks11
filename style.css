@@ -1,0 +1,236 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+ul li{
+    text-decoration: none;
+    list-style-type:none;
+}
+a{
+    text-decoration: none;
+    list-style-type: none;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+header{
+    background-color: #191A19;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 25px;
+    padding-bottom: 30px;
+    align-items: center;
+    padding-left: 113px;
+}
+.home a {
+    color: #FF7420;
+}
+.header1 nav ul{
+    display: flex;
+}
+.ul li a {
+    color: white;
+}
+.header2{
+    padding-right: 112px;
+}
+.header2 span a{
+    color: white;
+}
+.headerspan{
+    padding-right: 50px;
+}
+.vector{
+    width: 20px;
+    padding: 4px;
+}
+.headerspan2{
+   border-radius: 15px;
+   background-color: #FF7420;
+   text-align: center;
+   padding: 15px 30px;
+}
+.about{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.service{
+    padding-right: 40px;
+}
+main{
+    background-image: url(assets/image/photo_construction-workers-surveying-site\ 1.png);
+    background-size: cover;
+    max-width:100%; 
+    height: 936px;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.main1{
+    display: flex;
+    flex-direction: column;
+}
+.main1 div img{
+    width: 377px;
+    height: 96px;
+}
+.main1 img{
+    width: 459px;
+}
+.main1 p{
+    width: 420px;
+    height: 60px;
+    color: white;
+    padding-top: 25px;
+    padding-bottom: 118px;
+}
+.main{
+    padding-top: 154px;
+    padding-left: 112px;
+}
+.mainspan1{
+    background-color: #FF7420;
+    border-radius: 15px;
+    padding: 15px 30px;
+}
+.mainspan1 a{
+    color: white;
+}
+.mainspan2{
+    background-color: white;
+    border-radius: 15px;
+    padding: 15px 30px;
+    margin-left: 24px;
+}
+.mainspan2 a{
+    color: #191A19;
+}
+.div{
+    background-color: #FF7420;
+}
+.div1{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 111px;
+    padding-right: 150px;
+    padding-top: 57px;
+    background-color: #FF7420;
+    align-items: center;
+}
+.div1 nav ul{
+    display: flex;
+}
+.AllWorks{
+    padding-right: 20px;
+}
+.Architecture{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.Renovations{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.div1 nav ul li a{
+    color: white;
+}
+.div1 h1{
+    font-size: 64px;
+}
+.div2{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 111px;
+    padding-right: 150px;
+    padding-top: 49px;
+}
+
+.section{
+    position: relative;
+}
+.section img{
+    width: 400px;
+    height: 500px;
+    border-radius: 15px;
+}
+.absolut{
+    position: absolute;
+    top: 425px;
+    left: 120px;
+}
+.section1{
+    position: relative;
+}
+.section1 img{
+    width: 400px;
+    height: 500px;
+    border-radius: 15px;
+}
+.absolut1{
+    position: absolute;
+    top: 425px;
+    left: 120px;
+}
+.section2{
+    position: relative;
+}
+.section2 img{
+    width: 400px;
+    height: 500px;
+    border-radius: 15px;
+}
+.absolut2{
+    position: absolute;
+    top: 425px;
+    left: 120px;
+}
+
+.section3 h1 {
+    text-align: end;
+    padding-top: 24px;
+    padding-right: 150px;
+    padding-bottom: 65px;
+}
+.section3 h1 a{
+    color:#191A19;
+}
+.vector2{
+    width: 14px;
+    height: 14px;
+}
+h3{
+    color: white;
+}
+h6{
+    color: white;
+}
+.diiv{
+    background-color: #131212;
+}
+.diiv1{
+    text-align: center;
+}
+.diiv1 h1{
+    color: #FF7420;
+    font-size: 28px;
+    padding-top: 52px;
+    padding-bottom: 28px;
+}
+.diiv1 p{
+    color: white;
+    padding-bottom: 14px;
+}
+.diiv1 h4{
+    color: white;
+    padding-bottom: 4px;
+}
+.diiv2 h1{
+    text-align: center;
+    font-size: 64px;
+    color: white;
+    padding-top:102px;
+    padding-bottom: 121px;
+}
