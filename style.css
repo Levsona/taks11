@@ -234,3 +234,106 @@ h6{
     padding-top:102px;
     padding-bottom: 121px;
 }
+.form1{
+    display: flex;
+    background-color:#131212;
+}
+.form2{
+    background-color: #FF7420;
+    border-radius: 15px;
+    width: 700px;
+    height: auto;
+    margin-left: 122px;
+    padding: 42px 54px 68px 58px;
+}
+.form3{
+    background-color: #FF7420;
+    border-radius: 15px;
+    padding: 42px 80px 46px 64px;
+    margin-left:41px;
+    width: 450px;
+    height: auto;
+}
+.form2 p{
+    width:520px;
+    height: 40px;
+    color: white;
+}
+.form2 h1{
+    color: white;
+}
+.form3 h1{
+    color: white;
+}
+.form3 p{
+    color: white;
+}
+.name {
+    width: 270px;
+    height: 40px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 18px;
+    padding-left: 40px;
+}
+.surname{
+    width: 270px;
+    height: 40px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 18px;
+    padding-left: 40px;
+}
+.phone{
+    width: 270px;
+    height: 40px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 18px;
+    padding-left: 40px;
+}
+.select{
+    width: 270px;
+    height: 40px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 18px;
+    padding-left: 40px;
+}
+.additional{
+    width: 542px;
+    height: 130px;
+    border-radius: 15px;
+    margin-top: 18px;
+    padding-left: 40px;
+    padding-bottom: 80px;
+}
+ .form2 button{
+    text-align: center;
+    width: 540px;
+    height: 60px;
+    border-radius: 15px;
+    background-color: #191A19;
+    margin-top: 24px;
+    color: white;
+}
+.info{
+    padding-top:38px;
+    padding-bottom: 15px;
+}
+.info1{
+    padding-bottom: 15px;
+}
+.info2{
+    padding-bottom: 15px;
+}
+
+.form3 button{
+    text-align: center;
+    width: 320px;
+    height: 60px;
+    border-radius: 15px;
+    background-color: #191A19;
+    margin-top: 24px;
+    color: white;
+}
