@@ -337,3 +337,37 @@ h6{
     margin-top: 24px;
     color: white;
 }
+footer{
+    background-color: #191A19;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 114px 29px 119px
+}
+.footer p{
+    color: white;
+}
+.footer input{
+    width: 220px;
+    height: 20px;
+}
+.footer1{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 115px 40px 119px;
+}
+.footer1 p{
+    color: white;
+}
+.aboutus p{
+    width: 516px;
+    height: 96px;
+}
+.footer1 h3{
+    padding-bottom: 14px;
+}
+.link h4 a{
+    color: white;
+    padding: 4px;
+}
