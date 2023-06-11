@@ -15,6 +15,11 @@ img{
     max-width: 100%;
     height: auto;
 }
+nav ul .home a{
+    color: #FF7420;
+    border-bottom-style: solid;
+    padding-bottom: 15px;
+}
 header{
     background-color: #191A19;
     display: flex;
@@ -24,9 +29,7 @@ header{
     align-items: center;
     padding-left: 113px;
 }
-.home a {
-    color: #FF7420;
-}
+
 .header1 nav ul{
     display: flex;
 }
@@ -123,8 +126,12 @@ main{
 .div1 nav ul{
     display: flex;
 }
-.AllWorks{
+.div1 nav ul .AllWorks a{
     padding-right: 20px;
+    color: #131212;
+    border-bottom-style:solid;
+    padding-bottom: 10px;
+
 }
 .Architecture{
     padding-left: 20px;
