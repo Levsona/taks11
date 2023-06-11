@@ -152,39 +152,42 @@ main{
     position: relative;
 }
 .section img{
-    width: 400px;
+    width: 350px;
     height: 500px;
     border-radius: 15px;
 }
 .absolut{
     position: absolute;
-    top: 425px;
+    bottom: 22px;
     left: 120px;
 }
 .section1{
     position: relative;
 }
 .section1 img{
-    width: 400px;
+    width: 350px;
     height: 500px;
     border-radius: 15px;
+    margin-left: 19px;
 }
 .absolut1{
     position: absolute;
-    top: 425px;
+    bottom: 22px;
     left: 120px;
 }
 .section2{
     position: relative;
 }
 .section2 img{
-    width: 400px;
+    width: 350px;
     height: 500px;
     border-radius: 15px;
+    margin-left: 39px;
+    
 }
 .absolut2{
     position: absolute;
-    top: 425px;
+    bottom: 22px;
     left: 120px;
 }
 
@@ -361,7 +364,7 @@ footer{
     color: white;
 }
 .aboutus p{
-    width: 516px;
+    width: 416px;
     height: 96px;
 }
 .footer1 h3{
